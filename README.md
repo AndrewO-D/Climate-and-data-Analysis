@@ -1,2 +1,2 @@
 # Climate-and-data-Analysis
-precipitation
+precipitation analysis using Gauge and CMIP6 
